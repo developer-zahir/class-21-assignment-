@@ -302,3 +302,8 @@ body {
 .footer_section .footer_bottom p a:hover {
   color: white;
 }
+/* last edite */
+.contact_us .costact_inner .contact_box i {
+    color: #1abc9c;
+    font-size: 29px;
+    padding: 20px 0;
